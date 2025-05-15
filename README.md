@@ -12,6 +12,10 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-05-14 |[add-two-numbers](https://leetcode.com/problems/add-two-numbers/submissions/1633990105/)| Medium     |  |
 
+#DAY 2
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-05-15 |[delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list/)| Medium     |  |
 
 ## Goals
 
