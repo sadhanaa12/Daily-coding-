@@ -17,6 +17,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-05-15 |[delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list/)| Medium     |  |
 
+#DAY 3
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-05-16 |[two-sum](https://leetcode.com/problems/two-sum/submissions/1635653820/)|Easy |  |
+| 2025-05-16 |[min-stack](https://leetcode.com/problems/min-stack/)| Medium     |  |
 ## Goals
 
 - Solve at least one problem daily.
