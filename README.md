@@ -22,6 +22,13 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-05-16 |[two-sum](https://leetcode.com/problems/two-sum/submissions/1635653820/)|Easy |  |
 | 2025-05-16 |[min-stack](https://leetcode.com/problems/min-stack/)| Medium     |  |
+
+#DAY 4
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-05-17 |[implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks/submissions/1636472173/)|Easy |  |
+| 2025-05-17 |[contains-duplicate](https://leetcode.com/problems/contains-duplicate/submissions/1636471609/)| Easy   |  |
+
 ## Goals
 
 - Solve at least one problem daily.
