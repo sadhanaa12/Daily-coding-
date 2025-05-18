@@ -29,6 +29,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 | 2025-05-17 |[implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks/submissions/1636472173/)|Easy |  |
 | 2025-05-17 |[contains-duplicate](https://leetcode.com/problems/contains-duplicate/submissions/1636471609/)| Easy   |  |
 
+#DAY 5
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-05-18 |[valid-parentheses](https://leetcode.com/problems/valid-parentheses/submissions/1637426716/)|Easy |  |
+| 2025-05-18 |[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1637427436/)| Easy   |  |
 ## Goals
 
 - Solve at least one problem daily.
