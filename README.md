@@ -41,6 +41,12 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 | 2025-05-19 |[evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/1638411160/)| Medium     |  |
 | 2025-05-19 |[find-greatest-common-divisor-of-array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/submissions/1638410090/)| Easy   |  |
 
+#DAY 6
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-05-19 |[valid-parenthesis-string](https://leetcode.com/problems/valid-parenthesis-string/submissions/1639432996/)| Medium     |  |
+| 2025-05-19 |[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii/submissions/1639433116/)| Easy   |  |
+
 ## Goals
 
 - Solve at least one problem daily.
