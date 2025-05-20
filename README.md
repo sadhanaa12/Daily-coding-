@@ -44,8 +44,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 6
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-05-19 |[valid-parenthesis-string](https://leetcode.com/problems/valid-parenthesis-string/submissions/1639432996/)| Medium     |  |
-| 2025-05-19 |[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii/submissions/1639433116/)| Easy   |  |
+| 2025-05-20 |[valid-parenthesis-string](https://leetcode.com/problems/valid-parenthesis-string/submissions/1639432996/)| Medium     |  |
+| 2025-05-20 |[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii/submissions/1639433116/)| Easy   |  |
 
 ## Goals
 
