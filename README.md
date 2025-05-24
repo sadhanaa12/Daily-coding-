@@ -68,7 +68,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 10
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-05-23 |[basic-calculator](https://leetcode.com/problems/basic-calculator/submissions/1642290838/)|  Hard  |  |
+| 2025-05-23 |[implement-stack-using-queues](https://leetcode.com/problems/implement-stack-using-queues/submissions/1643221493/)|  Hard  |  |
 | 2025-05-23 |[move-zeroes](https://leetcode.com/problems/move-zeroes/submissions/1642290904/)|Easy  |  |
 
 ## Goals
