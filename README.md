@@ -74,8 +74,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 11
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-05-25 |[find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1644223145/)|   Easy |  |
-| 2025-05-25 |[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1644223216/)| Medium |  |
+| 2025-05-25 |[find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1644223145/)|  Medium |  |
+| 2025-05-25 |[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1644223216/)| Easy  |  |
 ## Goals
 
 - Solve at least one problem daily.
