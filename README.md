@@ -71,6 +71,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 | 2025-05-24 |[implement-stack-using-queues](https://leetcode.com/problems/implement-stack-using-queues/submissions/1643221493/)|   Easy |  |
 | 2025-05-24 |[rotate-array](https://leetcode.com/problems/rotate-array/submissions/1643221204/)| Medium |  |
 
+#DAY 11
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-05-24 |[implement-stack-using-queues](https://leetcode.com/problems/implement-stack-using-queues/submissions/1643221493/)|   Easy |  |
+| 2025-05-24 |[rotate-array](https://leetcode.com/problems/rotate-array/submissions/1643221204/)| Medium |  |
 ## Goals
 
 - Solve at least one problem daily.
