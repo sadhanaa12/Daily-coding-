@@ -80,7 +80,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 11
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-05-26 |[path-sum](https://leetcode.com/problems/path-sum/submissions/1645138909/)|   Easy |  |
+| 2025-05-26 |[path-sum](https://leetcode.com/problems/path-sum/submissions/1645138909/)|  Easy |  |
 | 2025-05-26 |[maximum-subarray](https://leetcode.com/problems/maximum-subarray/submissions/1645139090/)| Medium |  |
 
 
