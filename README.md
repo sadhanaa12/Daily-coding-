@@ -100,7 +100,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 15
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-05-28 |[kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/1647247824/)|  Medium|  |
+| 2025-05-28 |[find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number/submissions/1648162976/)|  Medium|  |
 | 2025-05-28 |[sum-of-left-leaves](https://leetcode.com/problems/sum-of-left-leaves/submissions/1647247301/)|  Easy |  |
 
 ## Goals
