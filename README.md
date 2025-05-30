@@ -107,8 +107,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 16
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-05-29 |[find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number/submissions/1648162976/)|  Medium|  |
-| 2025-05-29 |[diameter-of-binary-tree](https://leetcode.com/problems/diameter-of-binary-tree/submissions/1648164627/)|  Easy |  |
+| 2025-05-30 |[find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number/submissions/1648162976/)|  Medium|  |
+| 2025-05-30 |[diameter-of-binary-tree](https://leetcode.com/problems/diameter-of-binary-tree/submissions/1648164627/)|  Easy |  |
 
 ## Goals
 
