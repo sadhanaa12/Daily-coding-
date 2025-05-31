@@ -113,8 +113,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 17
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-05-31 |[flipping-an-image](https://leetcode.com/problems/flipping-an-image/submissions/1649027763/)|  Medium |  |
-| 2025-05-31 |[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1649027899/)|  Medium  |  |
+| 2025-05-31 |[rotate-image](https://leetcode.com/problems/rotate-image/submissions/1649966072/)|  Medium |  |
+| 2025-05-31 |[binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1649966227/)|  Medium  |  |
 
 ## Goals
 
