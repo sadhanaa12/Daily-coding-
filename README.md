@@ -116,6 +116,12 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 | 2025-05-31 |[rotate-image](https://leetcode.com/problems/rotate-image/submissions/1649966072/)|  Medium |  |
 | 2025-05-31 |[binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1649966227/)|  Medium  |  |
 
+#DAY 18
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-05-31 |[rotate-image](https://leetcode.com/problems/rotate-image/submissions/1649966072/)|  Medium |  |
+| 2025-05-31 |[binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1649966227/)|  Medium  |  |
+
 ## Goals
 
 - Solve at least one problem daily.
