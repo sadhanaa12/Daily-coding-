@@ -122,7 +122,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 | 2025-06-01 |[lexicographically-smallest-palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/submissions/1650944916/)|   Easy|  |
 | 2025-06-01 |[binary-tree-right-side-view](https://leetcode.com/problems/binary-tree-right-side-view/submissions/1650943198/)|  Medium  |  |
 
-#DAY 18
+#DAY 19
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
 | 2025-06-01 |[lexicographically-smallest-palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/submissions/1650944916/)|   Easy|  |
