@@ -131,8 +131,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 20
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-02 |[length-of-last-word](https://leetcode.com/problems/length-of-last-word/submissions/1651920423/)|   Easy|  |
-| 2025-06-02 |[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/submissions/1651920561/)|  Medium  |  |
+| 2025-06-03 |[length-of-last-word](https://leetcode.com/problems/length-of-last-word/submissions/1651920423/)|   Easy|  |
+| 2025-06-03 |[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/submissions/1651920561/)|  Medium  |  |
   
 ## Goals
 
