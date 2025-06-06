@@ -149,8 +149,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 23
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-06 |[search-in-a-binary-search-tree](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/1655868730/)|  Medium|  |
-| 2025-06-06 |[binary-tree-zigzag-level-order-traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/1654894044/)|   Easy |  |
+| 2025-06-06 |[search-in-a-binary-search-tree](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/1655868730/)|  Easy |  |
+| 2025-06-06 |[valid-palindrome](https://leetcode.com/problems/valid-palindrome/submissions/1655868565/)|   Easy |  |
    
 ## Goals
 
