@@ -149,8 +149,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 23
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-05 |[sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/1653846214/)|  Medium|  |
-| 2025-06-05 |[binary-tree-zigzag-level-order-traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/1654894044/)|   Easy |  |
+| 2025-06-06 |[sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/1653846214/)|  Medium|  |
+| 2025-06-06 |[binary-tree-zigzag-level-order-traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/1654894044/)|   Easy |  |
    
 ## Goals
 
