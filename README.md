@@ -155,8 +155,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 24
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-06 |[search-in-a-binary-search-tree](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/1655868730/)|  Easy |  |
-| 2025-06-06 |[valid-palindrome](https://leetcode.com/problems/valid-palindrome/submissions/1655868565/)|   Easy |  |
+| 2025-06-07 |[search-in-a-binary-search-tree](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/1655868730/)|  Easy |  |
+| 2025-06-07 |[valid-palindrome](https://leetcode.com/problems/valid-palindrome/submissions/1655868565/)|   Easy |  |
   
 ## Goals
  
