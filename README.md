@@ -173,8 +173,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 27
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-10 |[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/submissions/1658781189/)|   Easy |  |
-| 2025-06-10 |[delete-node-in-a-bst](https://leetcode.com/problems/delete-node-in-a-bst/submissions/1658780505/)|  Medium  |  |
+| 2025-06-10 |[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/submissions/1659908320/)|   Easy |  |
+| 2025-06-10 |[reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string/submissions/1659909753/)|  Medium  |  |
 
 ## Goals
  
