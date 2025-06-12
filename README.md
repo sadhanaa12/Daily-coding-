@@ -186,7 +186,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
 | 2025-06-12 |[kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/1661077538/)|  Medium |  |
-| 2025-06-11 |[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion/submissions/1661077274/)|  Medium  |  |
+| 2025-06-12 |[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion/submissions/1661077274/)|  Medium  |  |
 
 ## Goals
  
