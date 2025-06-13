@@ -3,7 +3,7 @@
 
 LEETCODE TRACKER 
 
-#Daily LeetCode Progress Tracker
+#Daily-LeetCode-Progress-Tracker
 
 This repository contains my daily progress on LeetCode problems. I aim to solve at least one problem daily to improve my problem-solving skills.
 
@@ -189,6 +189,12 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-06-12 |[convert-sorted-list-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/submissions/1662094068/)|  Medium |  |
 | 2025-06-12 |[maximum-number-of-vowels-in-a-substring-of-given-length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/submissions/1662094455/)|  Medium  |  |
+
+#DAY 30
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-06-11 |[kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/1661077538/)|  Medium |  |
+| 2025-06-11 |[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion/submissions/1661077274/)|  Medium  |  |
 
 ## Goals
  
