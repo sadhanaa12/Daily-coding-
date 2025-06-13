@@ -3,7 +3,7 @@
 
 LEETCODE TRACKER 
 
-#Daily-LeetCode-Progress-Tracker
+# Daily-LeetCode-Progress-Tracker
 
 This repository contains my daily progress on LeetCode problems. I aim to solve at least one problem daily to improve my problem-solving skills.
 
@@ -193,8 +193,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 30
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-11 |[kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/1661077538/)|  Medium |  |
-| 2025-06-11 |[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion/submissions/1661077274/)|  Medium  |  |
+| 2025-06-13 |[greatest-common-divisor-of-strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/submissions/1663156831/)|  Medium |  |
+| 2025-06-13 |[find-the-town-judge](https://leetcode.com/problems/find-the-town-judge/submissions/1663156238/)|  Medium  |  |
 
 ## Goals
  
