@@ -203,11 +203,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 | 2025-06-14 |[find-the-town-judge](https://leetcode.com/problems/find-the-town-judge/submissions/1663156238/)|   Easy  |  |
 
 
-#DAY 30
+#DAY 32
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-13 |[greatest-common-divisor-of-strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/submissions/1663156831/)|  Easy |  |
-| 2025-06-13 |[find-the-town-judge](https://leetcode.com/problems/find-the-town-judge/submissions/1663156238/)|   Easy  |  |
+| 2025-06-15 |[greatest-common-divisor-of-strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/submissions/1663156831/)|  Easy |  |
+| 2025-06-15 |[find-the-town-judge](https://leetcode.com/problems/find-the-town-judge/submissions/1663156238/)|   Easy  |  |
 
 ## Goals
  
