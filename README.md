@@ -206,8 +206,8 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 32
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-15 |[greatest-common-divisor-of-strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/submissions/1663156831/)|  Easy |  |
-| 2025-06-15 |[find-the-town-judge](https://leetcode.com/problems/find-the-town-judge/submissions/1663156238/)|   Easy  |  |
+| 2025-06-15 |[greatest-common-divisor-of-strings](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/submissions/1665155155/)|  Easy |  |
+| 2025-06-15 |[find-the-town-judge](https://leetcode.com/problems/number-of-1-bits/submissions/1665154994/)|   Easy  |  |
 
 ## Goals
  
