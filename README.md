@@ -212,7 +212,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 33
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-14 |[greatest-common-divisor-of-strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/submissions/1663156831/)|  Easy |  |
+| 2025-06-16 |[greatest-common-divisor-of-strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/submissions/1663156831/)|  Easy |  |
 
 ## Goals
  
