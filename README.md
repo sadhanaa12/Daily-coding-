@@ -209,6 +209,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 | 2025-06-15 |[number-of-substrings-containing-all-three-characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/submissions/1665155155/)| Medium|  |
 | 2025-06-15 |[number-of-1-bits](https://leetcode.com/problems/number-of-1-bits/submissions/1665154994/)|   Easy  |  |
 
+#DAY 33
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-06-14 |[greatest-common-divisor-of-strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/submissions/1663156831/)|  Easy |  |
+
 ## Goals
  
 - Solve at least one problem daily.
