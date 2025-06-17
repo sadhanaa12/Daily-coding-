@@ -217,7 +217,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 34
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-17 |[count-primes](https://leetcode.com/problems/count-primes/submissions/1667409190/)|  Easy |  |
+| 2025-06-17 |[count-primes](https://leetcode.com/problems/count-primes/submissions/1667409190/)|  Medium |  |
 
 ## Goals
  
