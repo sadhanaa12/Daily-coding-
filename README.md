@@ -214,6 +214,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-06-16 |[hamming-distance](https://leetcode.com/problems/hamming-distance/submissions/1666267194/)|  Easy |  |
 
+#DAY 34
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-06-16 |[hamming-distance](https://leetcode.com/problems/hamming-distance/submissions/1666267194/)|  Easy |  |
+
 ## Goals
  
 - Solve at least one problem daily.
