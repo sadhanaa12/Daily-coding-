@@ -222,7 +222,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 36
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-19 |[roman-to-integer](https://leetcode.com/problems/roman-to-integer/submissions/1668579550/)|  Easy |  |
+| 2025-06-19 |[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1669704865/)| Medium |  |
 
 
 ## Goals
