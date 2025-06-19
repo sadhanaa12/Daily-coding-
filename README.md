@@ -219,10 +219,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-06-17 |[count-primes](https://leetcode.com/problems/count-primes/submissions/1667409190/)|  Medium |  |
 
-#DAY 35
+#DAY 36
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-18 |[roman-to-integer](https://leetcode.com/problems/roman-to-integer/submissions/1668579550/)|  Easy |  |
+| 2025-06-19 |[roman-to-integer](https://leetcode.com/problems/roman-to-integer/submissions/1668579550/)|  Easy |  |
+
 
 ## Goals
  
