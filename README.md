@@ -224,6 +224,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-06-19 |[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1669704865/)| Medium |  |
 
+#DAY 37
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-06-20 |[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1669704865/)| Medium |  |
+
 
 ## Goals
  
