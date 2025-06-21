@@ -232,7 +232,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 38
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-21 |[remove-element](https://leetcode.com/problems/remove-element/submissions/1670700880/)|   Easy |  |
+| 2025-06-21 |[climbing-stairs](https://leetcode.com/problems/climbing-stairs/submissions/1671772671/)|   Easy |  |
 
 ## Goals
  
