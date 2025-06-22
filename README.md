@@ -237,7 +237,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 39
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-21 |[climbing-stairs](https://leetcode.com/problems/climbing-stairs/submissions/1671772671/)|   Easy |  |
+| 2025-06-22 |[climbing-stairs](https://leetcode.com/problems/climbing-stairs/submissions/1671772671/)|   Easy |  |
 
 
 ## Goals
