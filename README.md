@@ -237,7 +237,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 39
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-22 |[integer-to-roman](https://leetcode.com/problems/integer-to-roman/submissions/1672844028/)|   Easy |  |
+| 2025-06-22 |[integer-to-roman](https://leetcode.com/problems/integer-to-roman/submissions/1672844028/)|   Medium |  |
 
 
 ## Goals
