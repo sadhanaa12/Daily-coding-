@@ -247,7 +247,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 41
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-23 |[3sum](https://leetcode.com/problems/3sum/submissions/1673932857/)|   Medium |  |
+| 2025-06-24 |[3sum](https://leetcode.com/problems/3sum/submissions/1673932857/)|   Medium |  |
 
 
 ## Goals
