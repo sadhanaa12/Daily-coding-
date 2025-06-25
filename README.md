@@ -249,7 +249,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-06-24 |[find-the-index-of-the-first-occurrence-in-a-string](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/1675134249/)|    Easy|  |
 
-#DAY 42
+#DAY 42 
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
 | 2025-06-25 |[3sum](https://leetcode.com/problems/3sum/submissions/1673932857/)|   Medium |  |
