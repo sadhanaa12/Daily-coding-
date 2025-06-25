@@ -252,7 +252,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 42 
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-25 |[3sum](https://leetcode.com/problems/3sum/submissions/1673932857/)|   Medium |  |
+| 2025-06-25 |[valid-sudoku](https://leetcode.com/problems/valid-sudoku/submissions/1676329723/)|   Medium |  |
 
 ## Goals
  
