@@ -257,7 +257,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 #DAY 43 
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-26 |[sqrtx](https://leetcode.com/problems/sqrtx/submissions/1677498919/)|   Medium |  |
+| 2025-06-26 |[sqrtx](https://leetcode.com/problems/sqrtx/submissions/1677498919/)|   Easy |  |
 
 
 ## Goals
