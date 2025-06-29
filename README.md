@@ -269,6 +269,12 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-06-28 |[insert-interval](https://leetcode.com/problems/insert-interval/submissions/1679532572/)|   Medium|  |
 
+# DAY 46 
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-06-29 |[insert-interval](https://leetcode.com/problems/insert-interval/submissions/1679532572/)|   Medium|  |
+
+
 ## Goals
  
 - Solve at least one problem daily.
