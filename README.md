@@ -272,7 +272,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 46 
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-29 |[insert-interval](https://leetcode.com/problems/insert-interval/submissions/1679532572/)|    Easy|  |
+| 2025-06-29 |[reverse-bits](https://leetcode.com/problems/reverse-bits/submissions/1680589261/)|    Easy|  |
 
 
 ## Goals
