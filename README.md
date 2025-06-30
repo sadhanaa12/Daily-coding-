@@ -7,7 +7,7 @@ LEETCODE TRACKER
 
 This repository contains my daily progress on LeetCode problems. I aim to solve at least one problem daily to improve my problem-solving skills.
 
-## Progress Table   
+## Progress Table    
  
 # DAY 1 
 | Date       | Problem Name                       | Difficulty  | Notes                  |
