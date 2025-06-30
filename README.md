@@ -277,7 +277,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 47 
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-06-30 |[reverse-bits](https://leetcode.com/problems/reverse-bits/submissions/1680589261/)|    Easy|  |
+| 2025-06-30 |[power-of-three](https://leetcode.com/problems/power-of-three/submissions/1681732246/)|    Easy|  |
 
 ## Goals
  
