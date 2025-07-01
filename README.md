@@ -282,7 +282,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 48 
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-07-01 |[power-of-three](https://leetcode.com/problems/power-of-three/submissions/1681732246/)|    Easy|  |
+| 2025-07-01 |[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/submissions/1682784776/)|    Easy|  |
 
 ## Goals
  
