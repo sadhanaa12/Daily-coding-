@@ -279,6 +279,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-06-30 |[power-of-three](https://leetcode.com/problems/power-of-three/submissions/1681732246/)|    Easy|  |
 
+# DAY 48 
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-06-30 |[power-of-three](https://leetcode.com/problems/power-of-three/submissions/1681732246/)|    Easy|  |
+
 ## Goals
  
 - Solve at least one problem daily.
