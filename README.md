@@ -284,6 +284,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-07-01 |[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/submissions/1682784776/)|  Medium|  |
 
+# DAY 49 
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-07-02 |[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/submissions/1682784776/)|  Medium|  |
+
 ## Goals
  
 - Solve at least one problem daily.
