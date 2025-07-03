@@ -289,6 +289,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-07-02 |[spiral-matrix](https://leetcode.com/problems/spiral-matrix/submissions/1684167621/)|  Medium|  |
 
+# DAY 50 
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-07-03 |[spiral-matrix](https://leetcode.com/problems/spiral-matrix/submissions/1684167621/)|  Medium|  |
+
 ## Goals
  
 - Solve at least one problem daily.
