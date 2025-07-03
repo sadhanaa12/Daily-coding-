@@ -292,7 +292,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 50 
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-07-03 |[spiral-matrix](https://leetcode.com/problems/spiral-matrix/submissions/1684167621/)|   Easy|  |
+| 2025-07-03 |[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1685288722/)|   Easy|  |
 
 ## Goals
  
