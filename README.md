@@ -297,7 +297,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 51 
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-07-04 |[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1685288722/)|   Medium|  |
+| 2025-07-04 |[3sum-closest](https://leetcode.com/problems/3sum-closest/submissions/1686464043/)|   Medium|  |
 
 ## Goals
  
