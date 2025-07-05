@@ -302,7 +302,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 52 
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-07-05 |[3sum-closest](https://leetcode.com/problems/3sum-closest/submissions/1686464043/)|  Medium|  |
+| 2025-07-05 |[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/submissions/1687537131/)|   Easy|  |
 
 
 ## Goals
