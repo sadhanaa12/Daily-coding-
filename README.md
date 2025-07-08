@@ -314,6 +314,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-07-07 |[contains-duplicate-ii](https://leetcode.com/problems/contains-duplicate-ii/submissions/1689706041/)|   Easy|  |
 
+# DAY 55 
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-07-07 |[contains-duplicate-ii](https://leetcode.com/problems/contains-duplicate-ii/submissions/1689706041/)|   Easy|  |
+
 ## Goals
  
 - Solve at least one problem daily.
