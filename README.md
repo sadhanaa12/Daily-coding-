@@ -319,6 +319,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 |------------|------------------------------------|------------|------------------------|
 | 2025-07-08 |[pascals-triangle](https://leetcode.com/problems/pascals-triangle/submissions/1690994628/)|   Easy|  |
 
+# DAY 56 
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-07-09 |[pascals-triangle](https://leetcode.com/problems/pascals-triangle/submissions/1690994628/)|   Easy|  |
+
 ## Goals
  
 - Solve at least one problem daily.
