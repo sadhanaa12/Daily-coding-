@@ -322,7 +322,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 56 
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-07-09 |[pascals-triangle](https://leetcode.com/problems/pascals-triangle/submissions/1690994628/)|   Easy|  |
+| 2025-07-09 |[binary-tree-paths](https://leetcode.com/problems/binary-tree-paths/submissions/1692301852/)|   Easy|  |
 
 ## Goals
  
