@@ -328,6 +328,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
 | 2025-07-10 |[4sum](https://leetcode.com/problems/4sum/submissions/1693355781/)|   Medium|  |
+ 
+# DAY 58 
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-07-11 |[4sum](https://leetcode.com/problems/4sum/submissions/1693355781/)|   Medium|  |
 
 ## Goals
  
