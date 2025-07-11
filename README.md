@@ -332,7 +332,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 58 
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-07-11 |[4sum](https://leetcode.com/problems/4sum/submissions/1693355781/)|   Medium|  |
+| 2025-07-11 |[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/submissions/1694545752/)|   Medium|  |
 
 ## Goals
  
