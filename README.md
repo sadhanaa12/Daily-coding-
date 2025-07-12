@@ -333,6 +333,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
 | 2025-07-11 |[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/submissions/1694545752/)|   Medium|  |
+ 
+# DAY 58 
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-07-11 |[single-number](https://leetcode.com/problems/single-number/submissions/1695476889/)|   Easy|  |
 
 ## Goals
  
