@@ -342,7 +342,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 59 
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-07-13 |[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/1696616966/)|   Easy|  |
+| 2025-07-13 |[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/1696616966/)|  Medium|  |
 
 ## Goals
  
