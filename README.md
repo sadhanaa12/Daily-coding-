@@ -347,7 +347,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 60
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-07-14 |[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/1696616966/)| Easy|  |
+| 2025-07-14 |[count-complete-tree-nodes](https://leetcode.com/problems/count-complete-tree-nodes/submissions/1697768405/)| Easy|  |
 
 ## Goals
  
