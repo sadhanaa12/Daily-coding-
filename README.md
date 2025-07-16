@@ -357,7 +357,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 62
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-07-16 |[isomorphic-strings](https://leetcode.com/problems/isomorphic-strings/submissions/1699077132/)| Easy|  |
+| 2025-07-16 |[generate-parentheses](https://leetcode.com/problems/generate-parentheses/submissions/1700260798/)| Easy|  |
 
 ## Goals
  
