@@ -358,6 +358,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
 | 2025-07-16 |[generate-parentheses](https://leetcode.com/problems/generate-parentheses/submissions/1700260798/)| Medium|  |
+ 
+# DAY 63
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-07-16 |[generate-parentheses](https://leetcode.com/problems/generate-parentheses/submissions/1700260798/)| Medium|  |
 
 ## Goals
  
