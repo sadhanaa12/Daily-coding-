@@ -372,7 +372,7 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 # DAY 65
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
-| 2025-07-19  |[binary-watch](https://leetcode.com/problems/binary-watch/submissions/1702681154/)| Medium|  |
+| 2025-07-19  |[add-strings](https://leetcode.com/problems/add-strings/submissions/1703838994/)| Medium|  |
 
 ## Goals
  
