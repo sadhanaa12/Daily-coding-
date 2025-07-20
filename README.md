@@ -373,6 +373,11 @@ This repository contains my daily progress on LeetCode problems. I aim to solve 
 | Date       | Problem Name                       | Difficulty | Notes                  |
 |------------|------------------------------------|------------|------------------------|
 | 2025-07-19  |[add-strings](https://leetcode.com/problems/add-strings/submissions/1703838994/)|Easy|  |
+ 
+# DAY 66
+| Date       | Problem Name                       | Difficulty | Notes                  |
+|------------|------------------------------------|------------|------------------------|
+| 2025-07-20  |[add-strings](https://leetcode.com/problems/add-strings/submissions/1703838994/)|Easy|  |
 
 ## Goals
  
